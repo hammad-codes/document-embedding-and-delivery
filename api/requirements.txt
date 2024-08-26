@@ -1,0 +1,9 @@
+requests
+langchain
+langchain_core
+langchain_community
+pinecone 
+pinecone-client
+pinecone-client[grpc]
+pypdf
+requests

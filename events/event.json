@@ -1,0 +1,62 @@
+{
+  "body": "{\"recipient_number\": \"923157552498\", \"document_link\": \"https://ragbucket0864.s3.us-east-1.amazonaws.com/attention.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEH8aCXVzLWVhc3QtMSJHMEUCIQCGiE6GfshZx7pxy0jahHE%2Fudih9ccTer7%2B1NGJZt%2B98gIgfYXqmNG4fsL%2BNIGMbjpdviOY9GukPBbK5UUNBy5dEzoqhgMIiP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMjE4OTE2MTY5MTciDL2yjYU3%2BGB1tlOZ7CraAvpxUAK4jGn32hlsUC3cV%2FhVy9T9Ej3UofIlrELrjkmElWqRyXfOFm6ss76rcz38Jd%2B3lZ%2B5Tb06n1ej8oBVLia3CaErX5LGdgGV3Wpd59JQOEuwCwDHYxdySl5e24cyUwFNpvmC%2Ft0Tv46sqYg5Gn%2Fc6jCqiP8GJQ61y2Dvu85L%2BbNEGSIkQbTxSo%2FtiA%2Fr70wvhyCWi%2FTe7AHA%2Bw93lyi%2BFA811OJEZwx%2BxD%2BlOkTv%2Fs%2FGYMSFCX3iLI4e9bBy%2Bk9D789rz1fZoPZxzvy%2B%2FyctkWXvuAJYKxXxKi3H5dTMw2jXavmy7VGy4uPKS%2BV76VpeoigFzHxyDEnjF%2F3UqyVAV%2F0uHm%2FEsIWScorm4sgZ3%2FkjEFxkzaLBe1zye%2F8Qwrhg4wLq2iEJ7eIfLG0ximFv551gy5AjNHbMuA%2Bl%2BkG4Vp8M%2BooS0VFyeSTCBDy4F5w8Olkt7mixeHUwz6mbtgY6swLijEUZjZB%2FcxNtHVN0HtGfQmNK48GADaEKUkf723QausGZdS6Px6GiQg6Edf2KKPKf4jMBrNAw2A0XWb7UxblXs%2FDwVToQmUwdz2vGI2LrNGPI5gSmCtaaZIbY2VtnWP7yI13b7EFPXhF0CNXaa76ig6Lv7LEccuRY9rR0K5Df6TbtuiU7n4byI%2FGzv4VdVGO9dAaZfTwnXYeT0HXH1%2Brqmfs%2BPLgQDLjh%2Fi8jYFmUPAGXrUl3uwSxepuUCaNXD%2FsCM%2B0MhBWupUDIrVIj77Nb9%2FgKsksReMvtMRWWcdX%2FIkiyGh8nhZuNfvX3xiEeV72hDBMDpmyfqm0YO2JyjhL0pZVtvlRurWxlQKZrMg2Jws5UUc%2BC7QZibD3AHR7qFzgLG9qpezHn%2FKp9dKEbdnRkqSwy&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240822T071454Z&X-Amz-SignedHeaders=host&X-Amz-Expires=43200&X-Amz-Credential=ASIAQKGGXSCK6VFELH6P%2F20240822%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=df32fc5327325f474a0e1451006cc2c4c8c705c562005da6f8e24080cdcec218\", \"filename\": \"Prescription.pdf\", \"caption\": \"Dear Customer, Thank you for your purchase. Please find the attached document.\"}",
+  "resource": "/hello",
+  "path": "/hello",
+  "httpMethod": "GET",
+  "isBase64Encoded": false,
+  "queryStringParameters": {
+      "foo": "bar"
+  },
+  "pathParameters": {
+      "proxy": "/path/to/resource"
+  },
+  "stageVariables": {
+      "baz": "qux"
+  },
+  "headers": {
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+      "Accept-Encoding": "gzip, deflate, sdch",
+      "Accept-Language": "en-US,en;q=0.8",
+      "Cache-Control": "max-age=0",
+      "CloudFront-Forwarded-Proto": "https",
+      "CloudFront-Is-Desktop-Viewer": "true",
+      "CloudFront-Is-Mobile-Viewer": "false",
+      "CloudFront-Is-SmartTV-Viewer": "false",
+      "CloudFront-Is-Tablet-Viewer": "false",
+      "CloudFront-Viewer-Country": "US",
+      "Host": "1234567890.execute-api.us-east-1.amazonaws.com",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Custom User Agent String",
+      "Via": "1.1 08f323deadbeefa7af34d5feb414ce27.cloudfront.net (CloudFront)",
+      "X-Amz-Cf-Id": "cDehVQoZnx43VYQb9j2-nvCh-9z396Uhbp027Y2JvkCPNLmGJHqlaA==",
+      "X-Forwarded-For": "127.0.0.1, 127.0.0.2",
+      "X-Forwarded-Port": "443",
+      "X-Forwarded-Proto": "https"
+  },
+  "requestContext": {
+      "accountId": "123456789012",
+      "resourceId": "123456",
+      "stage": "prod",
+      "requestId": "c6af9ac6-7b61-11e6-9a41-93e8deadbeef",
+      "requestTime": "09/Apr/2015:12:34:56 +0000",
+      "requestTimeEpoch": 1428582896000,
+      "identity": {
+          "cognitoIdentityPoolId": null,
+          "accountId": null,
+          "cognitoIdentityId": null,
+          "caller": null,
+          "accessKey": null,
+          "sourceIp": "127.0.0.1",
+          "cognitoAuthenticationType": null,
+          "cognitoAuthenticationProvider": null,
+          "userArn": null,
+          "userAgent": "Custom User Agent String",
+          "user": null
+      },
+      "path": "/prod/hello",
+      "resourcePath": "/hello",
+      "httpMethod": "POST",
+      "apiId": "1234567890",
+      "protocol": "HTTP/1.1"
+  }
+}
